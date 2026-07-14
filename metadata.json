@@ -1,0 +1,6 @@
+{
+  "name": "Karvy & CAMS MF Brokerage Cleaner",
+  "description": "A premium, unified desktop ERP application integrating Karvy Mutual Fund Brokerage Data Cleaner and MF Trail Return Processing & Consolidation Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
